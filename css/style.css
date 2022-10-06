@@ -1,9 +1,10 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    min-width: 1440px;
 }
 .container {
-    min-width: 1440px;
+    width: 1250px;
     margin: 0 auto;
 }
 .flex {
